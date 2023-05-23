@@ -8,7 +8,7 @@
         "job_type": "standard",
         "pipeline_parameters": {
             "appId": "54788",
-            "cityName": "'knr'"
+            "cityName": "'sced'"
         },
         "pipeline_path": "Scenario1_WebServices",
         "snaplex_path": "Cloud"
